@@ -1,2 +1,2 @@
 # Python
-Python Basics question for job Interview
+Python  question for job Interview
